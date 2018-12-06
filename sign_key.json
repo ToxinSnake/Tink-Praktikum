@@ -1,0 +1,13 @@
+{
+    "primaryKeyId": 1727482545,
+    "key": [{
+        "keyData": {
+            "typeUrl": "type.googleapis.com/google.crypto.tink.EcdsaPrivateKey",
+            "keyMaterialType": "ASYMMETRIC_PRIVATE",
+            "value": "Ek0SBggDEAIYAhohAIwFUt/p/49UoDJtpqwGkp92L1t0TGdwX5LSXsab+hlqIiAnzNHRgRPkLvF+WPbUlQlg/ogAZC5w5zk7xprAZ49gxhohAKJVBpRezPfDs5UKD2JvZ/YTHtixpaU7JxhTvzRZsf6w"
+        },
+        "outputPrefixType": "TINK",
+        "keyId": 1727482545,
+        "status": "ENABLED"
+    }]
+}
